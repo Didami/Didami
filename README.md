@@ -4,4 +4,4 @@
 
 #
 
-<img src="https://outfiter-app.web.app/media/logo.png" height="20" width="20" /> ![](https://geps.dev/progress/92?dangerColor=a09c9f&warningColor=1c1c1c&successColor=a98b33)
+<img src="https://outfiter-app.web.app/media/logo.png" height="20" width="20" /> ![](https://geps.dev/progress/96?dangerColor=a09c9f&warningColor=1c1c1c&successColor=a98b33)
