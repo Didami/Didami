@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://apps.apple.com/app/outfiter/id6466315015" target="_blank">Descargar Outfiter - App Store (Mantener presionado y abrir en navegador)</a></h1>
+<h1 align="center"><a href="https://apps.apple.com/app/outfiter/id6466315015" target="_blank">Descargar Outfiter - App Store (Presionar -> 3 puntos -> abrir en navegador)</a></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=didami&label=Profile%20views&color=000000&style=flat" alt="profile-visits" /> </p>
 <p>Either crying or coding :')</p>
 
