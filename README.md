@@ -6,7 +6,7 @@
 
 *self-taught since 13 · either crying or coding :')* 
 
-![Profile Views](https://img.shields.io/endpoint?url=https://hits.sh/github.com/didami/didami.json&label=views&color=1e2a3a&labelColor=2c3e50&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=didami&style=flat&color=1e2a3a&labelColor=2c3e50&label=Profile_views)
 
 </div>
 
