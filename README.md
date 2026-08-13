@@ -1,6 +1,5 @@
 <div align="center">
-
-<sub>DIEGO · iOS DEVELOPER</sub>
+<sub>DIEGO · FRONT-END DEVELOPER</sub>
 
 # Didami
 
@@ -17,10 +16,7 @@
 <a href="https://apps.apple.com/app/outfiter/id6466315015">
   <img src="https://outfiter-app.web.app/media/logo.png" height="20" width="20" align="left" style="margin-right:10px"/>
 </a>
-
-**[Outfiter](https://apps.apple.com/app/outfiter/id6466315015)** — Your outfit planner · Live on the App Store
-
-![Progress](https://geps.dev/progress/100?dangerColor=4a5568&warningColor=2d3748&successColor=4a6fa5)
+<strong><a href="https://apps.apple.com/app/outfiter/id6466315015">Outfiter</a></strong> — Your outfit planner · Live on the App Store
 
 ---
 
@@ -28,16 +24,14 @@
 
 **Along** — Something new is on its way.
 
-> **Coming soon** · [Join the waitlist →](https://along-beta.web.app)
+> **Coming soon** · [Join the waitlist →](https://along-beta.web.app) · [About →](https://along-site.web.app) 
 
 ---
 
 ### Languages
 
 <div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=didami&layout=compact&theme=dark&bg_color=0d1117&border_color=2c3e50&title_color=7fa8d4&text_color=8899aa&langs_count=3" alt="Top Languages"/>
-
+<img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=didami&layout=compact&theme=dark&bg_color=0d1117&border_color=2c3e50&title_color=7fa8d4&text_color=8899aa&langs_count=3" alt="Top Languages"/>
 </div>
 
 ---
